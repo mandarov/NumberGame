@@ -1,5 +1,4 @@
 import random
-#
 n = random.randint(1, 100)
 guess = int(input("Введите число: "))
 while n!= guess:
